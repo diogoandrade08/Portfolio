@@ -1,0 +1,32 @@
+@media screen and (max-width: 850px) {
+    #segunda{
+        margin-top: 20px;
+        width: 90%;
+        height: 800px;
+        margin-right: 10px;
+        font-size: 13px;
+    }
+    .line{
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    #ola{
+        font-size: 40px;
+    }
+    #terceira{
+        width: 95%;
+        height: 600px;
+        margin-right: 10px;
+        margin-top: 20px;
+    }
+    #sendjobs-container{
+        margin-top: 1700px;
+    }
+    nav{
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+    .pBox{
+        color: white;
+    }
+}
